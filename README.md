@@ -1,5 +1,31 @@
 # Getting Started with Create React App
 
+** Its a Reseller Car website.Is work old product selling web site
+** make a web site Use React,react routerdom,ten stack query,express,nobe.mongodb etc
+** Its 3 user use in categorey
+** Admin
+** seller
+** Buyer
+** is ta very good reseller website
+
+** Live link :  https://resellercar-a7e93.web.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
