@@ -1,0 +1,7 @@
+.loading{
+    background: #000 url("../img/ben-redblock-loading.gif") no-repeat center;
+    background-size: cover;
+    height:800px;
+    width:100%;
+
+}
