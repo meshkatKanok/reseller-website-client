@@ -17,7 +17,9 @@
 ** Buyer
 
 ** is ta very good reseller website
+ ***  Admin email  mdkanok12@gmail.com
 
+ ** Admin PAssword: 111111
 
 ** Live link :  https://resellercar-a7e93.web.app/
 
